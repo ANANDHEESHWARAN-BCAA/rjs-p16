@@ -14,7 +14,7 @@ body {
 
 header {
   background: #222;
-  color: rgb(238, 232, 232);
+  color: rgb(253, 235, 235);
   padding: 20px;
   text-align: center;
 }
@@ -30,7 +30,7 @@ nav {
 }
 
 nav a {
-  color: rgb(238, 233, 233);
+  color: rgb(253, 214, 214);
   text-decoration: none;
   font-weight: bold;
 }
